@@ -1,0 +1,17 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "The purpose of this application is to develop identification cards for employees, specifically Managers, Engineers, and Interns. This information, depending on the users selection, will include their name, role, and ID; additional informationi may be provided as well, such as email, github user, and office number.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "keywords": []
+}

@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "id": "6848",
+        "title": "Config Heroku",
+        "text": "make sure to add \"start\" : \"node index.js\" to the scripts"
+    },
+    {
+        "id": "f6e0",
+        "title": "Server",
+        "text": "PORT - process.env.PORT || 3001;"
+    },
+    {
+        "id": "cc79",
+        "title": "Init Heroku",
+        "text": "npm start gets you going "
+    }
+]

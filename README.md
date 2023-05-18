@@ -3,9 +3,6 @@
 ## Express.js: Note Taker Description:
 The purpose of this application is for writing and saving notes, so that the user may organize their thoughts and keep track of tasks that need to be completed. 
 
-(../../Images/Notes.png)
-(../../Images/notes1.jpg)
-
 ## Express.js: Note Taker Installation
 N/A
 
